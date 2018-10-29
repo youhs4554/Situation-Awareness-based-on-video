@@ -1,0 +1,6 @@
+[submodule "Context-awareness-video-caption-generation"]
+	path = Context-awareness-video-caption-generation
+	url = https://bitbucket.org/hossay/video_context/src/develop/
+[submodule "Human-behavior-prediction"]
+	path = Human-behavior-prediction
+	url = https://bitbucket.org/hossay/gesture_tf_local/src/master/
