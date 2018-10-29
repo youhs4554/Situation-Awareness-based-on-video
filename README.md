@@ -1,6 +1,6 @@
 # Situation-Awareness-based-on-video
 
-* To see each submodule project directly, open '.submodule' file. It includes links to bitbucket repository.
+* To see each submodule project directly, open '.gitmodules' file. It includes links to bitbucket repository.
 * If you want to clone entire submodules, try this
 
   ```
